@@ -25,7 +25,7 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-Here are few imgages of project ....
+Here are few images of project ....
 <br>
   ![img1](https://user-images.githubusercontent.com/85472970/120963350-0b57a780-c77f-11eb-94a2-ea10f8c1646f.jpeg)
 <br>
